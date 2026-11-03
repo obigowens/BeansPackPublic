@@ -382,7 +382,7 @@
     },
     {
       "path": "overrides/config/fabric/indigo-renderer.properties",
-      "sha1": "db02fd03fb6c5437620ab9d332494ed3fe42cea3"
+      "sha1": "467738aa2574b446d6260a8ba67c439d28c214f2"
     },
     {
       "path": "overrides/config/ferritecore-mixin.toml",
@@ -446,7 +446,7 @@
     },
     {
       "path": "overrides/config/oculus.properties",
-      "sha1": "5359bfbf79f273836471a082be0449799718cb2b"
+      "sha1": "934a554a73e196bb883b334d6804c877c1b8a2e8"
     },
     {
       "path": "overrides/config/particle_core_config.toml",
@@ -606,7 +606,7 @@
     },
     {
       "path": "overrides/config/zfastnoise.mixin.properties",
-      "sha1": "dde1e23496beda4ab4df21e4b32081ec69cf2a1d"
+      "sha1": "0f0508cdfb7ee7038ca4e69d273eed45fd427917"
     },
     {
       "path": "overrides/data/fabricDefaultResourcePacks.dat",
