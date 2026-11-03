@@ -1,6 +1,6 @@
 # Lots of Beans
 
-**Minecraft 1.20.1 · forge 47.4.28**, 64 mods
+**Minecraft 1.20.1 · forge 47.4.28**, 63 mods
 
 ## Contents
 
@@ -47,7 +47,6 @@
 - [Mouse Tweaks](https://modrinth.com/project/mouse-tweaks) `1.20.1-2.25.1-forge`
 - [MRU](https://modrinth.com/project/mru) `1.0.4+1.20.1-forge`
 - [Oculus](https://modrinth.com/project/oculus) `1.20.1-1.8.0`
-- [Particle Core](https://modrinth.com/project/particle-core) `0.3.3+1.20.1+forge`
 - [Patchouli](https://modrinth.com/project/patchouli) `1.20.1-85-forge`
 - [Photon Editor](https://modrinth.com/project/photon-editor) `mc1.20.1-1.1.17-forge`
 - [playerAnimator](https://modrinth.com/project/playeranimator) `1.0.2-rc1+1.20-forge`
