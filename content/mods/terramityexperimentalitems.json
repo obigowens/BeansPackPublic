@@ -1,0 +1,23 @@
+{
+  "name": "Terramity Experimental Items",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "V689Z6aE",
+      "slug": "terramityexperimentalitems",
+      "versionId": "eQcLpgwb",
+      "versionNumber": "1.0.0",
+      "filename": "terramityexperimental-1.0.0.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/V689Z6aE/versions/eQcLpgwb/terramityexperimental-1.0.0.jar",
+      "sha1": "83fe2fc891992d700a8c5bdbeee85b0e1ae6a64e",
+      "sha512": "2fe7bc74330a356e9e71057702e609d2bc3cf3ba759cede0b93a4e18a34c68548af2398f7af851a25350650a4be39c504e1251d927494e3a235cb6fb1579df4f",
+      "fileSize": 6068
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

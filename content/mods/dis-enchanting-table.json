@@ -1,0 +1,23 @@
+{
+  "name": "Dis-Enchanting Table",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "9BgYgXE4",
+      "slug": "dis-enchanting-table",
+      "versionId": "DgDhbN2s",
+      "versionNumber": "5.0.2",
+      "filename": "disenchanting_table-merged-1.20.1-5.0.2.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/9BgYgXE4/versions/DgDhbN2s/disenchanting_table-merged-1.20.1-5.0.2.jar",
+      "sha1": "4e070c6111f26d5dae328a5253a760269aa12626",
+      "sha512": "ff002f71fa093723ffd0d3ea55f96b0d8a90386ec82b3eee52798b8e68a043cfb4c54635733b9d193df495640301ac062df92852aeae8bd3ca522a094fec46eb",
+      "fileSize": 228329
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

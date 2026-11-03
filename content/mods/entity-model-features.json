@@ -1,0 +1,23 @@
+{
+  "name": "[EMF] Entity Model Features",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "4I1XuqiY",
+      "slug": "entity-model-features",
+      "versionId": "mQR6L8Qe",
+      "versionNumber": "3.3.12-forge-1.20.1",
+      "filename": "entity_model_features-3.3.12-1.20.1-forge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/4I1XuqiY/versions/mQR6L8Qe/entity_model_features-3.3.12-1.20.1-forge.jar",
+      "sha1": "adcec598039ec59a805a974de9d23ff5eede8299",
+      "sha512": "caef975883a15f7ec34010bce5bc81d4eea16f31204c04eb378ac5488a8d5874b0ffc2c396656e20d3bd287eb2061a956c85a7e58e98a78f727c86e5f4f334ab",
+      "fileSize": 840669
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

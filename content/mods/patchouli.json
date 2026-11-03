@@ -1,0 +1,25 @@
+{
+  "name": "Patchouli",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "nU0bVIaL",
+      "slug": "patchouli",
+      "versionId": "94dtOLgZ",
+      "versionNumber": "1.20.1-85-forge",
+      "filename": "Patchouli-1.20.1-85-FORGE.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/nU0bVIaL/versions/94dtOLgZ/Patchouli-1.20.1-85-FORGE.jar",
+      "sha1": "d4614507d6e4c7cb464bba5eca891978272062ef",
+      "sha512": "15aedda4efcc553d5e3c83aa867b62554bc2fab298b43f55ed324e10507a3605f0ec2c59c01476e6d80b2a49275ef080142e43a6e663f9463b62f520960fc203",
+      "fileSize": 642732
+    }
+  },
+  "dependents": [
+    "RHN9OPTT"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

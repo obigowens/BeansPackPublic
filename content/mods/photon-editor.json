@@ -1,0 +1,25 @@
+{
+  "name": "Photon Editor",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "gzevkJbM",
+      "slug": "photon-editor",
+      "versionId": "a7chTVuf",
+      "versionNumber": "mc1.20.1-1.1.17-forge",
+      "filename": "photon-forge-1.20.1-1.1.17.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/gzevkJbM/versions/a7chTVuf/photon-forge-1.20.1-1.1.17.jar",
+      "sha1": "184dc6f77da9382f0d70e89c4d47364230fb63c7",
+      "sha512": "b0bdc63d73f9eda4a38c16e2cedbf80e325f57ba4452fbab8959a8bbc9f3a99754298d8b45376aee69e87ad91508c63ad045d76233b304a6a1de9cbeaf02c8f6",
+      "fileSize": 5078005
+    }
+  },
+  "dependents": [
+    "EfBzMHaR"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

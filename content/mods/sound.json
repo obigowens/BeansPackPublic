@@ -1,0 +1,23 @@
+{
+  "name": "Sounds",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "ZouiUX7t",
+      "slug": "sound",
+      "versionId": "6vE02T1J",
+      "versionNumber": "2.2.1+1.20.1-forge",
+      "filename": "Sounds-2.2.1+1.20.1+forge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/ZouiUX7t/versions/6vE02T1J/Sounds-2.2.1%2B1.20.1%2Bforge.jar",
+      "sha1": "e75686799054958804d711b1b6ceef4d132764b8",
+      "sha512": "f8195ec5f9611f9b96c5a23cfd81cb09bd1ea2721533aa768e550cf14c870b1dd384b6b04f012d0d5a09af1701d3cdc87ffad047e4ab5d2138094f60405b586c",
+      "fileSize": 10974911
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

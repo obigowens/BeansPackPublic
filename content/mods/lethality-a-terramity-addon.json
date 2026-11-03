@@ -1,0 +1,23 @@
+{
+  "name": "Lethality - A Terramity Addon",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "mVt3sz2a",
+      "slug": "lethality-a-terramity-addon",
+      "versionId": "15OyOgHE",
+      "versionNumber": "0.1-1.20.1",
+      "filename": "lethality-0.1-1.20.1-all.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/mVt3sz2a/versions/15OyOgHE/lethality-0.1-1.20.1-all.jar",
+      "sha1": "8e2025ffdf106131f0ec644d39df59eb677c6b02",
+      "sha512": "1977f85f97aaa98a350ab86051d8cd2c69376a5fb8c98a80b2a4b89f6e716b56e4c957121dab967c465676315ba38b31e44e61778febc77c61cfaa0f50415827",
+      "fileSize": 2430215
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

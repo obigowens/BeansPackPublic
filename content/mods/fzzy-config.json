@@ -1,0 +1,26 @@
+{
+  "name": "Fzzy Config",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "hYykXjDp",
+      "slug": "fzzy-config",
+      "versionId": "53kg5uoF",
+      "versionNumber": "0.7.7+1.20.1+forge",
+      "filename": "fzzy_config-0.7.7+1.20.1+forge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/hYykXjDp/versions/53kg5uoF/fzzy_config-0.7.7%2B1.20.1%2Bforge.jar",
+      "sha1": "1a4f550dea4fb6316a96591dc46a463ee1f6602b",
+      "sha512": "d082b2fcdd2411312f0ce096c35e6167c453f85c979c4273cc92cf246cd0855d825865d79d47933a1bf3f1caaaf17b5a9415d4cb58ace26582434843380e3c1d",
+      "fileSize": 2397175
+    }
+  },
+  "dependents": [
+    "RSeLon5O",
+    "qbbO7Jns"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

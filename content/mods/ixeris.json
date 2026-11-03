@@ -1,0 +1,23 @@
+{
+  "name": "Ixeris",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "p8RJPJIC",
+      "slug": "ixeris",
+      "versionId": "3Rq06zkB",
+      "versionNumber": "4.6.11+1.20.1-forge",
+      "filename": "Ixeris-4.6.11+1.20.1-forge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/p8RJPJIC/versions/3Rq06zkB/Ixeris-4.6.11%2B1.20.1-forge.jar",
+      "sha1": "a5d41e10dca66e01ca6fcf425b70762ff7f9475b",
+      "sha512": "d65e09d7095ca192620a80687455523b3fc9c9831fb68653d0e6b797d280acbf5b1820d84d5d3a3a50283bfd06162db57ddb992f984c089dfe4caa7fcddc82c2",
+      "fileSize": 1597231
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

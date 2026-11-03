@@ -1,0 +1,26 @@
+{
+  "name": "Puzzles Lib",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "QAGBst4M",
+      "slug": "puzzles-lib",
+      "versionId": "hOfDHA4g",
+      "versionNumber": "8.1.36",
+      "filename": "PuzzlesLib-v8.1.36-1.20.1-Forge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/QAGBst4M/versions/hOfDHA4g/PuzzlesLib-v8.1.36-1.20.1-Forge.jar",
+      "sha1": "d2e79bc84f0f2e75e3212ab236af08528117b213",
+      "sha512": "232c7c052c32d07bbb9daa02e16eab3ff45d41cf91488dca79e099965cb33983b09554c758c7e0df0516c33a9327880068ceb167ed3f0df60d590588aad55d99",
+      "fileSize": 1790007
+    }
+  },
+  "dependents": [
+    "OZBR5JT5",
+    "ePv85y52"
+  ],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

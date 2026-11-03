@@ -1,0 +1,23 @@
+{
+  "name": "Terramity: Paisley's Summoning",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "sNzAlei4",
+      "slug": "paisleys-summoning",
+      "versionId": "dPguAwcc",
+      "versionNumber": "0.4.1",
+      "filename": "terramity_paisleys_summoning-0.4.1-forge-1.20.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/sNzAlei4/versions/dPguAwcc/terramity_paisleys_summoning-0.4.1-forge-1.20.1.jar",
+      "sha1": "9ab4cabc0c7faef57e4595426db99ee386a879c4",
+      "sha512": "ead435ff5cb60515fdda24716a69ebf93ea09f79d02ea30977ff121386ec2662ae970db8878d9b9bcfee25afd02dc8132c9f567044e5f4aa1f5fcad911c42e7b",
+      "fileSize": 1587196
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

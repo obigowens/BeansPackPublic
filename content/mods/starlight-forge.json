@@ -1,0 +1,23 @@
+{
+  "name": "Starlight (Forge)",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "iRfIGC1s",
+      "slug": "starlight-forge",
+      "versionId": "cNa0vkNj",
+      "versionNumber": "1.1.2+1.20",
+      "filename": "starlight-1.1.2+forge.1cda73c.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/iRfIGC1s/versions/cNa0vkNj/starlight-1.1.2%2Bforge.1cda73c.jar",
+      "sha1": "a915880c7834a0b0f9f300f0e3053deaa9a3205a",
+      "sha512": "cc89c6b2dd0db709586028c7732a57a3e6184f19cc2b98b25964c720c3ab434031e62de23e0dab022575d637b5e4a34b5813164d32ec356d56588da400e7d026",
+      "fileSize": 110583
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

@@ -1,0 +1,23 @@
+{
+  "name": "FerriteCore",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "uXXizFIs",
+      "slug": "ferrite-core",
+      "versionId": "DG5Fn9Sz",
+      "versionNumber": "6.0.1",
+      "filename": "ferritecore-6.0.1-forge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.1-forge.jar",
+      "sha1": "417fb6ce8f52abf40bd9d0390371790f9576f8ba",
+      "sha512": "a1960a7c03dc32d4ccaccaf28afdd9b078758bbd62d15a91d4039a83fa9397a098e89b69591f6bd5190254d9ee97e502504154b9aec764adb8c65f000b75ba2c",
+      "fileSize": 123034
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

@@ -1,0 +1,22 @@
+{
+  "name": "Astrality - A Terramity Addon",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "curseforge",
+  "sources": {
+    "curseforge": {
+      "id": "1359389",
+      "slug": "astrality",
+      "versionId": "7217788",
+      "versionNumber": "astrality 0.1.4",
+      "filename": "astrality-0.1.4-forge-1.20.1.jar",
+      "downloadUrl": "https://edge.forgecdn.net/files/7217/788/astrality-0.1.4-forge-1.20.1.jar",
+      "sha1": "3e86033054366e355c68e654703ca341c346895f",
+      "fileSize": 3748520
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

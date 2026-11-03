@@ -1,0 +1,23 @@
+{
+  "name": "Entity Culling",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "NNAgCjsB",
+      "slug": "entityculling",
+      "versionId": "HUUJcFnt",
+      "versionNumber": "1.11.3",
+      "filename": "entityculling-forge-1.11.3-mc1.20.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/NNAgCjsB/versions/HUUJcFnt/entityculling-forge-1.11.3-mc1.20.1.jar",
+      "sha1": "d3c513e88ef9f5cdd7e27d17d923d4dca69c6d55",
+      "sha512": "be5be53897ae7403a202e4b0b094701bcc4ecdb94afcf2ea144cd07d9a4553a1fc6a88917732a72c477d01c33583162cffb9c4a19d259089deb018878eec1da8",
+      "fileSize": 1515076
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

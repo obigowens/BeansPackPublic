@@ -1,0 +1,23 @@
+{
+  "name": "Jade 🔍",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "nvQzSEkH",
+      "slug": "jade",
+      "versionId": "xJQHCmWJ",
+      "versionNumber": "11.13.3+forge",
+      "filename": "Jade-1.20.1-Forge-11.13.3.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/nvQzSEkH/versions/xJQHCmWJ/Jade-1.20.1-Forge-11.13.3.jar",
+      "sha1": "d08e64e66521d69e083c8525f1fc507f1c202384",
+      "sha512": "72025c4ad6d26522bafe3d5d6ac9d4702c006a868312cb34df8a7a2398a4618205839607b129c167fd176e58cb7655f08e3afbf1993925c80d4fcc559c45a037",
+      "fileSize": 553487
+    }
+  },
+  "dependents": [],
+  "clientSide": "optional",
+  "serverSide": "optional"
+}

@@ -1,0 +1,26 @@
+{
+  "name": "Comforts",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "SaCpeal4",
+      "slug": "comforts",
+      "versionId": "gBDsc134",
+      "versionNumber": "6.4.0+1.20.1",
+      "filename": "comforts-forge-6.4.0+1.20.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/SaCpeal4/versions/gBDsc134/comforts-forge-6.4.0%2B1.20.1.jar",
+      "sha1": "e7b9fe89566bb1ee013e33745f22f309f679536e",
+      "sha512": "5f8bc01de36814bbea454ad306efd6b7ae9de933117fe8c1197a13454804e4b71ddd0685a24ace45b81527a8489d4081f7e75b6c5d3f7d7c8f791520407fac09",
+      "fileSize": 382083
+    }
+  },
+  "dependents": [],
+  "optionalDependents": [
+    "rlloIFEV"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

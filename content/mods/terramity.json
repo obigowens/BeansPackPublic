@@ -1,0 +1,28 @@
+{
+  "name": "Terramity",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "RHN9OPTT",
+      "slug": "terramity",
+      "versionId": "cjrb1wmA",
+      "versionNumber": "0.9.8",
+      "filename": "terramity-0.9.8-forge-1.20.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/RHN9OPTT/versions/cjrb1wmA/terramity-0.9.8-forge-1.20.1.jar",
+      "sha1": "898ef261a7d05e844dc879f38b2f37333765704a",
+      "sha512": "aed5dda694afc7181c703972a0e0a94996499d3f26d93b401284eae3a1aecd16c014cf63253b29f8d4077a825a12f0e7046b2601185fcc16420d79bc50332d9e",
+      "fileSize": 27024132
+    }
+  },
+  "dependents": [
+    "EfBzMHaR",
+    "V689Z6aE",
+    "mVt3sz2a",
+    "sNzAlei4"
+  ],
+  "clientSide": "required",
+  "serverSide": "required"
+}

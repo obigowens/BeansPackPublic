@@ -1,0 +1,25 @@
+{
+  "name": "[ETF] Entity Texture Features",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "BVzZfTc1",
+      "slug": "entitytexturefeatures",
+      "versionId": "EAHEZRbp",
+      "versionNumber": "7.2.6-forge-1.20.1",
+      "filename": "entity_texture_features-7.2.6-1.20.1-forge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/BVzZfTc1/versions/EAHEZRbp/entity_texture_features-7.2.6-1.20.1-forge.jar",
+      "sha1": "61f8c27ea487064f674a587780f3b6f24f22a74f",
+      "sha512": "46f78536191573a917131db354d3178446714f00682c3e181db9c2fb42ec457df52e8d9b12c3d621f0f31e3ef13204f2b74491864ac7ea6c052108ca87544139",
+      "fileSize": 999570
+    }
+  },
+  "dependents": [
+    "4I1XuqiY"
+  ],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

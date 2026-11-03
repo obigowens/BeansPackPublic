@@ -1,0 +1,23 @@
+{
+  "name": "Easy Anvils",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "OZBR5JT5",
+      "slug": "easy-anvils",
+      "versionId": "4pRdDqEb",
+      "versionNumber": "v8.0.2-1.20.1-Forge",
+      "filename": "EasyAnvils-v8.0.2-1.20.1-Forge.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/OZBR5JT5/versions/4pRdDqEb/EasyAnvils-v8.0.2-1.20.1-Forge.jar",
+      "sha1": "d44a8b549b27713a92d59148729bf374ff3e25f0",
+      "sha512": "2b4715538b2e78bd86fbd05ebd07b7da2c7fa00d6e9653f6fcfad7f1fc59edb495f54164a8e2a48ed97b1722388b11729221775d798c8de9e92fb73e07f01e14",
+      "fileSize": 141744
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}

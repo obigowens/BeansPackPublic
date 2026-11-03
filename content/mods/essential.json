@@ -1,0 +1,23 @@
+{
+  "name": "Essential Mod",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "k2ZPuTBm",
+      "slug": "essential",
+      "versionId": "uXgxMHcS",
+      "versionNumber": "1.5.2",
+      "filename": "Essential_1-5-2_forge_1-20-1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/k2ZPuTBm/versions/uXgxMHcS/Essential_1-5-2_forge_1-20-1.jar",
+      "sha1": "3ee77bfdc284c58a35ef6c9405d718ae4b73f94b",
+      "sha512": "d4777ff3702d4e7a3d6e43623c7e6b05a8b429f02026d8c83532f8c204b94efee33e30f6c60ac4a1e20a7f96a4952a55627d64a3c2b2d1a64e50ba490256125b",
+      "fileSize": 51510241
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "unsupported"
+}

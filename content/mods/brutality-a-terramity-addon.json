@@ -1,0 +1,23 @@
+{
+  "name": "Brutality - A Terramity Addon",
+  "side": "auto",
+  "explicit": true,
+  "disabled": false,
+  "preferred": "modrinth",
+  "sources": {
+    "modrinth": {
+      "id": "EfBzMHaR",
+      "slug": "brutality-a-terramity-addon",
+      "versionId": "KILyUjra",
+      "versionNumber": "0.8.4-1.20.1",
+      "filename": "brutality-0.8.4-1.20.1.jar",
+      "downloadUrl": "https://cdn.modrinth.com/data/EfBzMHaR/versions/KILyUjra/brutality-0.8.4-1.20.1.jar",
+      "sha1": "223e38065a413795a9c3c62282ee4a51b21046fd",
+      "sha512": "5d400dd141d38f14c868f245d98e54691b704ab3b02e538d05eced434207fe22b45489286faf5b5dbf6c64d324da19aa4d40bcc9b0a259c82248067bc0644bf2",
+      "fileSize": 6643236
+    }
+  },
+  "dependents": [],
+  "clientSide": "required",
+  "serverSide": "required"
+}
